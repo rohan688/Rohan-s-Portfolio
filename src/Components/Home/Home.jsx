@@ -98,7 +98,7 @@ const Home = ({ scrollRef }) => {
           className={styles.profileImage}
         >
           <img
-            src="https://github.com/rohan688/images-portfolio/blob/main/Untitled-1-removebg-preview.png"
+            src="https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/276124761_105690165418263_8375313808086031841_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=sjBUYi3Bl9MAX8qze2t&tn=S9oDQi5gpnIo6V11&_nc_ht=scontent.fbom8-1.fna&oh=00_AT8706dQe675W2un0R933pHwejswfqf17FmIwmDdBhH9AA&oe=6239B91B"
             alt="Profile pic"
           />
         </div>

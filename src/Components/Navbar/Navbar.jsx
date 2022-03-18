@@ -54,12 +54,12 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://therahulgoyal.vercel.app/'>
+				<a href='https://portfolio-2-blond.vercel.app/'>
 					<div className={styles.logo}>
-						<img
+						{/* <img
 							src='https://github.com/RahulGoyal03/Portfolio/blob/main/src/assets/logorahul.png?raw=true'
 							alt='Logo'
-						/>
+						/> */}
 					</div>
 				</a>
 

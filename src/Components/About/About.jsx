@@ -35,7 +35,7 @@ const About = () => {
           when I was trying to edit things on the web — taught me a lot about
           HTML & CSS!. <br />
           <br /> Fast Forwarding to today, I built a number of web applications
-          and 4 major projects. Learned a great deal about teamwork, leadership,
+          and  major projects. Learned a great deal about teamwork, leadership,
           and communication. After months of rigorous training, here I am
           <span style={{ color: `#00a0a0` }}>
             {" "}

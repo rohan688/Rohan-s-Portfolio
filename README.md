@@ -1,13 +1,13 @@
 # Portfolio
 
-### This is personal Portfolio website. Visit [Portfolio](https://therahulgoyal.vercel.app/)
+### This is personal Portfolio website. Visit [Portfolio](https://portfolio-2-blond.vercel.app/)
 
 ## Build with using
 ### `React `
 
 ## To run this project in the local machine run the following commands:
 ```
-git clone https://github.com/RahulGoyal03/Portfolio.git
+
 ```
 ```
 cd Portfolio

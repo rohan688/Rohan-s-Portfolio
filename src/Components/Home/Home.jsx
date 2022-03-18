@@ -66,7 +66,7 @@ const Home = ({ scrollRef }) => {
           }}
         >
           <h1>
-            <span>Hi, My name is</span>
+            <span>Hey👋, I'm </span>
             <div className={styles.name} style={{ color: `${newTheme.title}` }}>
               Rohan Gaikwad.
             </div>

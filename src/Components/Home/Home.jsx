@@ -66,7 +66,7 @@ const Home = ({ scrollRef }) => {
           }}
         >
           <h1>
-            <span>Hey👋, I'm </span>
+            <span>Hi, I'm </span>
             <div className={styles.name} style={{ color: `${newTheme.title}` }}>
               Rohan Gaikwad.
             </div>
@@ -94,6 +94,7 @@ const Home = ({ scrollRef }) => {
           style={{
             transform: `translateX(${offset * 2.5}px)`,
             opacity: `${offset > 300 ? "0" : offset > 160 ? ".5" : "1"}`,
+           
           }}
           className={styles.profileImage}
         >

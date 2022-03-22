@@ -5,7 +5,7 @@ import SideIcons from "../SideIcons/SideIcons";
 import TechStacks from "../TechStacks/TechStacks";
 import AOS from "aos";
 import "aos/dist/aos.css";
-
+import img1 from "../../assets/my_photo.jpg"
 import { Button } from "../Button/Button";
 import About from "../About/About";
 import { projects } from "../../Utils/Projects";
@@ -99,7 +99,7 @@ const Home = ({ scrollRef }) => {
           className={styles.profileImage}
         >
           <img
-            src="https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/276123503_108952115092068_5438229748199020775_n.jpg?stp=dst-jpg_p843x403&_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=K6GNc3Arj8EAX8-2YV-&_nc_ht=scontent.fbom8-1.fna&oh=00_AT_yUzi1JmBYx5b3jCNtoNuDah64c9U9mkbRty4ffhzDgw&oe=623F7C74"
+            src={img1}
             alt="Profile pic"
           />
         </div>

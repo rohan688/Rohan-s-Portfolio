@@ -99,7 +99,7 @@ const Home = ({ scrollRef }) => {
           className={styles.profileImage}
         >
           <img
-            src="https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/274987213_106376942016252_1443683684990425925_n.jpg?stp=dst-jpg_p843x403&_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=z7gCuMndRPgAX_I4BGv&_nc_ht=scontent.fbom8-1.fna&oh=00_AT_QK56J-ZxF2XYEaKWiTgNQ22i-40A0GyRkcYCLRBkxYA&oe=623B1499"
+            src="https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/276123503_108952115092068_5438229748199020775_n.jpg?stp=dst-jpg_p843x403&_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=K6GNc3Arj8EAX8-2YV-&_nc_ht=scontent.fbom8-1.fna&oh=00_AT_yUzi1JmBYx5b3jCNtoNuDah64c9U9mkbRty4ffhzDgw&oe=623F7C74"
             alt="Profile pic"
           />
         </div>

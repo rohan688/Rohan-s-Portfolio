@@ -13,6 +13,8 @@ import Contact from "../Contact/Contact";
 import { ThemeContext } from "../../ContextProvider/ThemeContext";
 // import Experiences from '../Experiences/Experiences';
 
+
+
 const Home = ({ scrollRef }) => {
   const [projectArray, setProjectArray] = useState(projects.slice(0, 4));
   const { newTheme } = React.useContext(ThemeContext);
